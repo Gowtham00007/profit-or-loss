@@ -1,0 +1,38 @@
+body{
+
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+
+    background-color:#94a3b8;
+    text-align: center;
+    font-size: xx-large;
+}
+
+label{
+    
+    padding: 0.5rem;
+    display: block;
+}
+button{
+    background-color: #1e293b;
+    color: white;
+    padding: 0.5rem;
+    font-size: medium;
+    margin: 1rem;
+
+}
+
+div{
+    background-color: aliceblue;
+    font-weight: bolder;
+    margin: 1rem;
+    
+    font-size: xx-large;
+}
+
+input{
+    padding: 0.5rem;
+    font-size: medium;
+}
+
