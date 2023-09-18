@@ -16,4 +16,3 @@ A website which helps user with how much profit or loss he/she is making  throug
  - javascript 
 
 Don't forget to leave a ⭐ if you found this useful.
-=======
